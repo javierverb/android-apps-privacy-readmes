@@ -1,1 +1,5 @@
-# horoscope-privacy
+# Horóscopo Diario 2023 - Privacy
+
+-- 
+
+Our app is committed to protecting the privacy of our users. We do not collect, store, or share any personal information about our users. The app only uses internet connection and does not send any user data to any third parties, except for usage data for the purpose of showing ads. We use Admob to show ads within our app, which may collect and use data such as IP address, device information and usage data for the purpose of showing personalized ads and for ad performance analytics. However, we do not share any personal information or identifying data with Admob or any other third party. We do not track or monitor our users' activity within the app. We do not use cookies or other tracking technologies. Our app does not require registration, so we do not ask for any personal information such as your name, email, or phone number. We believe that our users' privacy is of the utmost importance, and we strive to ensure that our app respects and protects it at all times.
