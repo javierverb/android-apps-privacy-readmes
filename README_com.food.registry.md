@@ -1,4 +1,4 @@
-# Privacy Policy - Readme
+# Privacy Policy - Privacy
 
 At Food Registry, we are committed to protecting the privacy and security of our users. This document explains the permissions requested by our Android application and provides information about our use of Google Ads, as well as our data handling practices.
 
