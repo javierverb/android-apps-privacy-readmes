@@ -1,4 +1,4 @@
-Privacy Policy for AI Assistant Using Google Calendar API
+# [Privacy Policy for AI Assistant Using Google Calendar API](#privacy-policy-for-ai-assistant-using-google-calendar-api)
 
 Effective Date: September 27, 2024
 
@@ -49,6 +49,64 @@ We may update this Privacy Policy periodically. Any significant changes will be 
 9. Contact Us
 
 If you have any questions or concerns regarding this Privacy Policy, please contact us at:
+
+Velvet Pink
+Email: velvetpink04@gmail.com
+
+
+
+# [Terms of Service for AI Assistant Using Google Calendar API](#terms-of-service-for-ai-assistant-using-google-calendar-api)
+
+Effective Date: September 27, 2024
+
+Welcome to Velvet Pink’s AI Assistant (the “Service”). These Terms of Service (“Terms”) govern your access and use of the Service, which interacts with your Google Calendar via the Google Calendar API to create and manage events. By accessing or using the Service, you agree to these Terms.
+
+1. Acceptance of Terms
+
+By using the Service, you acknowledge that you have read, understood, and agree to be bound by these Terms and our Privacy Policy. If you do not agree to these Terms, please do not use the Service.
+
+2. Description of the Service
+
+The AI Assistant is designed to help users manage their Google Calendar by creating, modifying, and deleting events based on user instructions. The Service is hosted on Amazon Web Services (AWS) EC2, with an API key stored securely in a .env file. No personal data is shared with third-party applications.
+
+3. Use of the Service
+
+    Authorization: To use the Service, you must authorize it to access your Google Calendar. This authorization can be revoked at any time through your Google account settings.
+    Responsibility: You are responsible for the accuracy and content of any events created or modified by the AI Assistant in your calendar.
+    Restrictions: You agree not to misuse the Service. This includes using it in any way that violates local, state, national, or international laws, or interferes with the proper functioning of the Service.
+
+4. Modifications to the Service
+
+We reserve the right to modify, suspend, or discontinue the Service (in whole or in part) at any time, with or without notice. We will not be liable to you or any third party for any modification, suspension, or discontinuation of the Service.
+
+5. Data Security and Privacy
+
+    Security Measures: The Service uses encryption and other security measures to protect your data. The API key used for the Google Calendar API is stored in a private .env file on our EC2 instance and is never shared with any third-party services.
+    Data Handling: The Service does not share your personal or calendar data with any third-party applications or services. For details on how we handle your data, please review our Privacy Policy.
+
+6. Limitation of Liability
+
+To the fullest extent permitted by law, Velvet Pink and its affiliates, officers, employees, or agents will not be liable for any indirect, incidental, special, consequential, or punitive damages, or any loss of profits or revenues, whether incurred directly or indirectly, or any loss of data, use, goodwill, or other intangible losses resulting from:
+
+    Your use or inability to use the Service;
+    Any unauthorized access to or use of our servers or any personal information stored therein;
+    Any interruption or cessation of transmission to or from the Service.
+
+7. Disclaimer of Warranties
+
+The Service is provided "as is" and "as available" without warranties of any kind, either express or implied, including, without limitation, implied warranties of merchantability, fitness for a particular purpose, or non-infringement. We do not guarantee that the Service will be secure, uninterrupted, or free of errors.
+
+8. Termination
+
+You may stop using the Service at any time. We reserve the right to terminate or suspend your access to the Service if you violate these Terms or if we discontinue the Service.
+
+9. Changes to the Terms
+
+We may revise these Terms from time to time. Any changes will be posted on this page, and if significant, we will notify you via email or a notice on our website. Your continued use of the Service after such changes constitutes your acceptance of the new Terms.
+
+10. Contact Information
+
+If you have any questions about these Terms, please contact us at:
 
 Velvet Pink
 Email: velvetpink04@gmail.com
