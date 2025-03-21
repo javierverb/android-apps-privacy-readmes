@@ -1,6 +1,6 @@
 # Privacy Policy - Privacy
 
-At Food Registry, we are committed to protecting the privacy and security of our users. This document explains the permissions requested by our Android application and provides information about our use of Google Ads, as well as our data handling practices.
+At Food Registry, we are committed to protecting the privacy and security of our users. This document explains the permissions requested by our Android application, our data collection and sharing practices, and provides information about our use of Google Ads.
 
 Permissions:
 
@@ -16,16 +16,41 @@ Permissions:
 
     SCHEDULE_EXACT_ALARM: This permission allows our application to schedule alarms at precise times. We employ this permission for time-sensitive features and notifications to ensure accurate and timely delivery.
 
-Google Ads:
-We utilize Google Ads, a service provided by Google, to display advertisements within our application. Google Ads enables us to generate revenue to support the development and maintenance of our app. Please note that while we work with Google Ads, we do not store or read any personally identifiable information (PII) from our users.
+Data Collection and Sharing:
+Through our integration with Google Ads SDK, the following data may be collected and shared:
 
-Data Handling:
-We take the privacy and security of your personal data seriously. It is important to clarify that we do not store or read any personal data from our users. Any data required for the proper functioning of our app, such as user preferences or settings, is stored locally on your device and is not transmitted to our servers or third parties.
+1. App Activity:
+   - In-app interactions
+   - App performance data
+   - Crash logs
+
+2. Device Information:
+   - Device ID
+   - Android Advertising ID
+   - Operating system version
+   - Device model
+
+3. Usage Data:
+   - Interaction with advertisements
+   - Session duration
+   - Feature usage statistics
+
+This data is collected and processed by Google Ads to provide advertising services and improve ad targeting. We do not directly collect or store this information on our servers.
+
+Local Data Storage:
+Any app-specific data, such as user preferences or settings, is stored locally on your device and is not transmitted to our servers.
+
+Third-Party Services:
+Our app integrates the following third-party SDKs:
+- Google Mobile Ads SDK
+- Google Play Services
+
+These SDKs may collect and process data according to their own privacy policies and terms of service.
 
 Your Consent:
-By installing and using our application, you consent to the permissions requested and the practices described in this Privacy Policy - Readme document. If you do not agree with any aspect of this policy, we recommend uninstalling our application.
+By installing and using our application, you consent to the data collection and sharing practices described in this Privacy Policy. If you do not agree with any aspect of this policy, we recommend uninstalling our application.
 
 Contact Us:
-If you have any questions, concerns, or feedback regarding our privacy practices or the use of permissions in our Android application, please contact us at [Contact Email/Support Channel].
+If you have any questions, concerns, or feedback regarding our privacy practices or data handling, please contact us at [Contact Email/Support Channel].
 
-Note: This Privacy Policy - Readme is provided as a general overview and does not replace or supersede the detailed privacy policy that may be available in our application or on our website. Please refer to the respective privacy policy for comprehensive information.
+Note: This Privacy Policy reflects our commitment to transparency regarding data collection and sharing practices, including those implemented through third-party SDKs and services.
